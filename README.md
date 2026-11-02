@@ -1,0 +1,2 @@
+# JangoloBuddy
+Custom valorant tracker
